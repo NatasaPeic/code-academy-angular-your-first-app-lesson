@@ -1,3 +1,4 @@
+<!--
 Great! The product price changed from a number to a formatted currency. How does it work?
 
 AngularJS gets the value of product.price.
@@ -17,3 +18,4 @@ In index.html inside <p class="date">, display the product's pubdate.
 Format the product's pubdate by piping it to the date filter.
 4.
 Format the product's name by piping it to the uppercase filter.
+-->

@@ -1,3 +1,4 @@
+<!--
 Let's do a quick review:
 
 A module contains the different components of an AngularJS app
@@ -39,3 +40,6 @@ Replace it with this HTML. Type in the contents exactly as you see here:
   </div>
 </div>
 You'll see that both products have the same cover image. Let's fix this bug in the next exercise. Click Next to continue.
+
+
+-->

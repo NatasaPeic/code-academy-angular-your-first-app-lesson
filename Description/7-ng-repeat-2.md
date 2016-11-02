@@ -1,3 +1,4 @@
+<!--
 Well done! You got both books in $scope.products to show up in the view. How does it work?
 
 In the controller, we used products to store an array containing two objects.
@@ -14,3 +15,4 @@ with
 
 <img ng-src="{{ product.cover }}">
 The ng-src is a directive that sets the <img> element's src to a property in the controller.
+-->

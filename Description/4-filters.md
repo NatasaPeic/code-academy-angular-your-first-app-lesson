@@ -1,3 +1,4 @@
+<!--
 Well done! In the controller, you used an object to group together related data about a product. Then in the view, you used dot notation to display the values.
 Instructions
 1.
@@ -7,3 +8,4 @@ In index.html in <p class="price">, change the expression to look like this:
 
 {{ product.price | currency }}
 We'll explain how this works in the next exercise.
+-->

@@ -1,3 +1,4 @@
+<!--
 Awesome! You built an AngularJS app. How does it work?
 
 In app.js, we created a new module named myApp. A module contains the different components of an AngularJS app.
@@ -13,3 +14,4 @@ Both the controller MainController and the view index.html have access to $scope
 Likewise, any new properties attached to $scope will become available to use in the view. In the controller, attach promo to $scope, and set its value to your own string.
 3.
 In the view under the <h1> element, add an <h2> element and use an expression to display promo on the page.
+-->

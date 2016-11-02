@@ -1,3 +1,4 @@
+<!--
 Great! Each time you click on the number of likes, the number goes up. How does it work?
 
 The ng-click is a directive. When <p class="likes"> is clicked, ng-click tells AngularJS to run the plusOne() function in the controller.
@@ -13,3 +14,4 @@ Back in the controller after $scope.products, attach a new property to $scope na
 In the view, use ng-click to trigger the minusOne() function when <p class="dislikes"> is clicked.
 
 View the AngularJS app in the browser. Click on the -0 in each product tile.
+-->
